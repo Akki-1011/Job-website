@@ -1,0 +1,24 @@
+.topnav{
+    background: transparent;
+    color: #fff;
+}
+
+.toplinks{
+    float: right;
+    width: 80%;
+    text-align: right;
+}
+
+.toplinks a{
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+}
+ 
+.toplinks a:hover{
+    color: #000;
+}
+
+.clear{
+clear: both;
+}
